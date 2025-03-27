@@ -15,7 +15,7 @@ TuneMyVibe is an interactive Python-based application that enhances your mood by
 ### **Download Executable**
 Click the button below to download the latest release:
 
-[![Download](https://img.shields.io/badge/Download-EXE-blue?style=for-the-badge)]([(https://github.com/Abhilasha-Bhatt/Tune-My-Vibe/releases/download/TuneMyVibe/TuneMyVibeSetup.exe])
+[![Download](https://img.shields.io/badge/Download-EXE-blue?style=for-the-badge)]([https://github.com/Abhilasha-Bhatt/Tune-My-Vibe/releases/download/TuneMyVibe/TuneMyVibeSetup.exe])
 
 ## 📜 Usage
 1. Launch the application.
